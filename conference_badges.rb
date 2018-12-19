@@ -29,4 +29,4 @@ def printer(attendees)
 #  end
 end
 
-assign_rooms(["Edsgar"])
+batch_badge_creator(["Edsgar"])
