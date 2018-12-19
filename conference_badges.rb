@@ -29,4 +29,4 @@ def printer(attendees)
 #  end
 end
 
-printer(["Edsgar"])
+assign_rooms(["Edsgar"])
