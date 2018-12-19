@@ -29,4 +29,4 @@ def printer(attendees)
   end
 end
 
-printer(Edsgar)
+printer("Edsgar")
