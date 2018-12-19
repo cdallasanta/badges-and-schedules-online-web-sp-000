@@ -28,3 +28,5 @@ def printer(attendees)
     puts room
   end
 end
+
+printer(Edsgar)
