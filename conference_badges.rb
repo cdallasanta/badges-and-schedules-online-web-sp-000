@@ -29,4 +29,4 @@ def printer(attendees)
 #  end
 end
 
-batch_badge_creator(["Edsgar"])
+batch_badge_creator(["Edsgar", "Chris"])
